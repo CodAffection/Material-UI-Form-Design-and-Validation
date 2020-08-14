@@ -5,13 +5,19 @@ These is the demo project used to explaining Material UI topics like
 - Form Design
 - Form Validation
 - Insert new record on form submit
+
 Complete videos in this series of React Materil UI : https://bit.ly/3k2tUSD
 
-###### Before Running this Project
- 1. Install npm packages using 'npm install' command from root folder
+## Get the Code
 
- # Step By Step Explanation
+```
+$ git clone https://github.com/CodAffection/Material-UI-Form-Design-and-Validation.git
+$ cd Material-UI-Form-Design-and-Validation
+$ npm install
+```
 
+ ## How it works ?
+ 
 ### 3. Material UI - Form Design.
 
  Video Tutorial : https://youtu.be/-XKaSCU0ZLM
@@ -29,21 +35,20 @@ alt="Video Tutorial for Material UI Form Design" width="500" height="400" border
 alt="Video Tutorial for Material UI- Form Validation" width="500" height="400" border="10" /></a>
 
 
-# All Video Tutorial Series
-| Series        | Video PlayList          |
-| ------------- |:-------------:|
-| Angular 7|https://goo.gl/vN9LFd  |
-| Asp.Net MVC|https://goo.gl/gvjUJ7  |
-| Asp.Net Core|https://goo.gl/scJc4f  |
-| Node JS|https://goo.gl/viJcFs  |
-| Web API|https://goo.gl/itVayJ  |
-| Angular Material|https://goo.gl/TbDQnT  |
-| MEAN Stack|https://goo.gl/YJPPAH  |
-| C# Tutorial|https://goo.gl/s1zJxo  |
-| Asp.Net WebForm|https://goo.gl/GXC2aJ  |
-| Angular 5|https://goo.gl/ahk39S  |
-| Angular 4|https://goo.gl/Ha71kq  |
-| C# WinForm|https://goo.gl/vHS9Hd  |
-| MS SQL|https://goo.gl/MLYS9e  |
-| Crystal Report|https://goo.gl/5Vou7t  |
-| CG Exercises in C Program|https://goo.gl/qEWJCs  |
+| :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
+|--------------------------:|:---------------------|---|---------------------:|:-------------------------------------|
+| Angular                   |http://bit.ly/2KQN9xF |   |Paypal                | https://goo.gl/bPcyXW                |
+| Asp.Net Core              |http://bit.ly/30fPDMg |   |Amazon   Affiliate    | https://geni.us/JDzpE                |
+| React                     |http://bit.ly/325temF |   |
+| Python                    |http://bit.ly/2ws4utg |   | :point_right:        | Follow Us                            |
+| Node.js                   |https://goo.gl/viJcFs |   |Website               |http://www.codaffection.com          |
+| Asp.Net MVC               |https://goo.gl/gvjUJ7 |   |YouTube               |https://www.youtube.com/codaffection  |
+| Flutter                   |https://bit.ly/3ggmmJz|   |Facebook              |https://www.facebook.com/codaffection |
+| Web API                   |https://goo.gl/itVayJ |   |Twitter               |https://twitter.com/CodAffection      |
+| MEAN Stack                |https://goo.gl/YJPPAH |   |
+| C# Tutorial               |https://goo.gl/s1zJxo |   |
+| Asp.Net WebForm           |https://goo.gl/GXC2aJ |   |
+| C# WinForm                |https://goo.gl/vHS9Hd |   |
+| MS SQL                    |https://goo.gl/MLYS9e |   |
+| Crystal Report            |https://goo.gl/5Vou7t |   |
+| CG Exercises in C Program |https://goo.gl/qEWJCs |   |
