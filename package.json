@@ -13,7 +13,7 @@
     "date-fns": "^2.14.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "set PORT=3003 && react-scripts start",
